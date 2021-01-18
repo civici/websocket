@@ -1,0 +1,9 @@
+.vscode/c_cpp_properties.json
+.vscode/settings.json
+.vscode/tasks.json
+websocket.obj
+SSLhelper.obj
+sock.obj
+payload.obj
+main.obj
+a.exe
